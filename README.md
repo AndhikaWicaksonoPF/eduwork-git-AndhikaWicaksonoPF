@@ -1,1 +1,1 @@
-Ini adalah hasil Tugas JavaScript Syntax 
+Ini adalah hasil Tugas JavaScript Function
