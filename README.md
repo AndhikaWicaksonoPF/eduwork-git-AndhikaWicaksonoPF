@@ -1,1 +1,1 @@
-ini adalah hasil tugas Javascript Syntax
+ini adalah hasil tugas Javascript Objects
