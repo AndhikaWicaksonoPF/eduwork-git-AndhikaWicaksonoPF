@@ -1,1 +1,1 @@
-ini adalah hasil tugas Javascript Objects
+ini adalah hasil tugas Javascript Conditions
