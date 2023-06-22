@@ -1,1 +1,1 @@
-Ini adalah hasil semua tugas SQL Eduwork
+Ini adalah hasil tugas JMeter Eduwork
